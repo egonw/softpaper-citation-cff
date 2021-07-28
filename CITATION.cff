@@ -1,0 +1,37 @@
+cff-version: 1.1.0
+message: Please cite the following works when using this software.
+authors:
+  - family-names: Steinbeck
+    given-names: Christoph
+  - family-names: Han
+    given-names: Yongquan
+  - family-names: Kuhn
+    given-names: Stefan
+  - family-names: Horlacher
+    given-names: Oliver
+  - family-names: Luttmann
+    given-names: Edgar
+  - family-names: Luttmann
+    given-names: Edgar
+  - family-names: Willighagen
+    given-names: Egon
+doi: 10.1021/CI025584Y
+identifiers:
+  - type: doi
+    value: 10.1021/CI025584Y
+  - type: other
+    value: urn:issn:1520-5142
+  - type: other
+    value: pmcid:4901983
+  - type: other
+    value: pmid:12653513
+keywords:
+  - information system
+  - bioinformatics
+  - cheminformatics
+  - Chemistry Development Kit
+  - open-source software
+  - chemistry
+title: >-
+  The Chemistry Development Kit (CDK): an open-source Java library for Chemo-
+  and Bioinformatics
