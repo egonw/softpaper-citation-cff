@@ -1,5 +1,9 @@
 cff-version: 1.1.0
 message: Please cite the following works when using this software.
+title: >-
+  The Chemistry Development Kit (CDK): an open-source Java library for Chemo-
+  and Bioinformatics
+date-released: 2003-02-11
 authors:
   - family-names: Steinbeck
     given-names: Christoph
@@ -19,12 +23,6 @@ doi: 10.1021/CI025584Y
 identifiers:
   - type: doi
     value: 10.1021/CI025584Y
-  - type: other
-    value: urn:issn:1520-5142
-  - type: other
-    value: pmcid:4901983
-  - type: other
-    value: pmid:12653513
 keywords:
   - information system
   - bioinformatics
@@ -32,6 +30,3 @@ keywords:
   - Chemistry Development Kit
   - open-source software
   - chemistry
-title: >-
-  The Chemistry Development Kit (CDK): an open-source Java library for Chemo-
-  and Bioinformatics
